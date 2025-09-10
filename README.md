@@ -12,8 +12,7 @@ Duplicate Prevention: Avoids logging the same match multiple times
 
 REQUIREMENTS:
 
-bashpip install paddleocr opencv-python mss gspread google-auth loguru numpy pygetwindow
-Setup
+pip install paddleocr opencv-python mss gspread google-auth loguru numpy pygetwindow
 
 Google Sheets API:
 
